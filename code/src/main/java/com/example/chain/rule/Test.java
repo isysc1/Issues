@@ -2,7 +2,7 @@
 package com.example.chain.rule;
 
 /**
- * @author Skow 微信公众号：Issues 联系邮箱：isysc1@163.com
+ * @author 有清 微信公众号：Issues 联系邮箱：isysc1@163.com
  * @description 测试类
  * @date 2022/11/25 10:03 下午
  */

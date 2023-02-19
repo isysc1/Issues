@@ -4,7 +4,7 @@ package com.example.chain.rule;
 import java.util.function.Supplier;
 
 /**
- * @author Skow 微信公众号：Issues 联系邮箱：isysc1@163.com
+ * @author 有清 微信公众号：Issues 联系邮箱：isysc1@163.com
  * @description 规则实现接口
  * @date 2022/11/25 10:00 下午
  */
